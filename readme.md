@@ -41,3 +41,5 @@ az acr login --name <ACR Name>
 docker push <ACR Name>.azurecr.io/<path and tag>
 ```
 
+## Deploy container
+App Service のデプロイセンターで Azure Container Registory のイメージをデプロイする
